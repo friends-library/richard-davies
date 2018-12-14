@@ -1,6 +1,6 @@
-== An Account of the Convincement, Exercises, Services, and Travels, of That Ancient Servant of the Lord, Richard Davies.Comprising Some Information Relative to the Spreading of the Truth in North Wales.
+== The Journal of Richard Davies.
 
-I WAS born in the year 1635, in the town of Welch-pool, in Montgomeryshire,
+I was born in the year 1635, in the town of Welch-pool, in Montgomeryshire,
 in North Wales, of honest parents, that had a small estate there.
 I was brought up in a little learning,
 and in the religion and discipline of the church of England.
@@ -20,7 +20,7 @@ And there, being exercised in the historical part of the scriptures,
 I could speak and talk of them, so that those people came to speak well of me,
 and this did not a little puff me up; so that I was not so serious,
 as I should have been, to get eternal life by Christ Jesus, who is the life himself,
-who said to the Jews, John v, 39, 40, "`Search, or ye search the Scriptures,
+who said to the Jews, John v. 39, 40, "`Search, or ye search the Scriptures,
 for in them ye think ye have eternal life, and they are they which testify of me:
 and ye will not come to me, that ye might have life.`"
 
@@ -113,8 +113,8 @@ About this time, being in the year 1656, our ministers told us,
 that there was a sort of people come up in the north, called Quakers,
 that were a people of a strange posture and principles: saying,
 that it was the last days and times that Christ spoke of in the 24th of Matthew,
-"`Many shall come in my name, and deceive many, ver,
-5. for there shall arise false Christs, and false prophets,
+"`Many shall come in my name, and deceive many, ver. 5.
+for there shall arise false Christs, and false prophets,
 and shall show great signs and wonders, insomuch that if it were possible,
 they shall deceive the very elect.`"
 This sort of people called Quakers, were much preached against;
@@ -135,13 +135,24 @@ named Morgan Evan, of South Wales:
 he had met with the people called Quakers in his travels, and was convinced of the truth.
 This poor man discoursed with my master about the principles of truth,
 and I being in the shop about my calling, my mistress came and said,
-Why do you not go out to help your master?`"for there
+Why do you not go out to help your master? for there
 is a Quaker at the door that hath put him to silence.
 I hearing this, made haste, and took my bible under my arm,
 and put on what courage I could to dispute with that poor man,
 but he proved too hard for us all; when I went to them,
 they were upon the words Thee and Thou; but I very peremptorily asked him,
-what command he had to speak Thee and Thou; for I did acknowledge to him,
+what command he had to speak Thee and Thou;^
+footnote:[At this time in history, the correct and plain use of "`thee`" and "`thou`"
+to one person was beginning to give way to "`you`" and "`your.`"
+Most modern English speakers are unaware that the words "`you`" and "`your`" were originally plural pronouns used only to address two or more people,
+whereas "`thee`" and "`thou`" were used to address a single person. In the 1600's,
+it became fashionable (as a means of showing honor or flattery)
+to use the plural "`you`" or "`your`" in addressing people of higher social status,
+while "`thee`" and "`thou`" were reserved for servants, children, or people of lower social or economic position.
+Early Friends stuck to what was then considered "`plain language`"
+(using thee and thou to every single person, and you and your to two or more),
+rather than showing preferment by addressing certain individuals in the plural.]
+for I did acknowledge to him,
 that it was the language of God to Adam, and the language of the scripture; but, said I,
 that is not enough for us now in this day, we must have a command for it.
 To which he answered, "`Hold fast the form of sound words, which thou hast heard of me.`"
@@ -173,8 +184,7 @@ and the day-star arise in your hearts,`" 2 Pet.
 and the operation of God`'s Holy Spirit upon the soul;
 recommending me to the "`Grace of God, that bringeth salvation,--teaching us, that,
 denying ungodliness and worldly lusts, we should live soberly,
-righteously and godly in this present world,`" Tit. 2{
-^}11-12. And so he departed from our house,
+righteously and godly in this present world,`" Tit. 2:11-12. And so he departed from our house,
 and I set him a little along on his way.
 
 Now when I came back from him, the consideration of his words took fast hold on me,
@@ -204,7 +214,7 @@ I took them by the hand to bring them out of the land of Egypt,
 which my covenant they brake, although I was an husband unto them, saith the Lord:
 but this shall be the covenant that I will make with the house of Israel;
 after those days, saith the Lord, I will put my law in their inward parts,
-and v.`'rite it in their hearts, and will be their God, and they shall be my people.
+and write it in their hearts, and will be their God, and they shall be my people.
 And they shall teach no more every man his neighbour, and every man his brother, saying.
 Know the Lord: for they shall all know me, from the least of them,
 unto the greatest of them, saith the Lord; for I will forgive their iniquity,
@@ -248,7 +258,7 @@ In all this time I still kept my retirement in the wood, or some other private p
 and there in my waiting, I desired of the Lord,
 that I might be further satisfied by himself, as to those things; first,
 Whether the scriptures were the word of God,
-as it was said and preached unto ns they were, and the way to life and salvation?`"
+as it was said and preached unto us they were, and the way to life and salvation?`"
 Then the first chapter of John came under my serious consideration in my meditation,
 which said, "`In the beginning was the Word, and the Word was with God,
 and the Word was God: the same was in the beginning with God.
@@ -283,8 +293,8 @@ and took great pleasure in searching of them,
 thinking that would make me wise unto salvation, as Paul said to Timothy;
 "`And that from a child thou hast known the scriptures,
 which are able to make thee wise unto salvation, through faith,
-which is in Christ Jesus,`" 2. Tim.
-Iii. 15. This main thing was wanting, the true and saving faith, which is the gift of God.
+which is in Christ Jesus,`" 2. Tim. 3:15.
+This main thing was wanting, the true and saving faith, which is the gift of God.
 "`It is by grace we are saved through faith, not of ourselves,
 it is the gift of God,`" Eph. 2:8. So it is the grace of God that brings salvation,
 and not the bare historical knowledge of the scriptures.
@@ -360,8 +370,8 @@ I had no peace therein.
 God showed me the customs of the nation were vain,
 and our language not according to the language of God`'s people,
 recorded in the scriptures of truth.
-So I made a conscientious search into this matter also:
--- where I found the great Creator of heaven and earth,
+So I made a conscientious search into this matter also;
+where I found the great Creator of heaven and earth,
 who by the word of his power made all things therein, created man in his own image,
 "`In the image of God created he him: male and female created he them.
 And God blessed them,
@@ -386,7 +396,7 @@ I found that all the holy men of God used that language,
 and Christ taught his disciples to pray in that language; "`Our Father,
 which art in heaven, hallowed be thy name, thy kingdom come,
 thy will be done on earth as it is in heaven.`"
-Mat, vi.
+Mat. 6.
 And withal, I knew a little grammar, and how that it was improper to say vos +++[+++you]
 to one single person,
 instead of tu +++[+++thou]. And though the learned in our nation spoke it,
@@ -401,8 +411,7 @@ as was promised in the days of old concerning Israel: then,
 when they returned to the Lord, he would bring them out of their captivity: "`For then,
 saith the Lord, will I turn to the people a pure language,
 that they may all call upon the name of the Lord to serve him with one consent.`"
-Zeph.
-iii, 9.
+Zeph. 3:9.
 
 Thus I was conscientiously concerned to speak
 the pure language of thee and thou to every one,
@@ -467,7 +476,10 @@ I could not perform that service which he required of me.
 
 I was now first called a Quaker, because I said to a single person thee and thou,
 and kept on my hat, and did not go after the customs and fashions of the world,
-that other professors lived and walked in.
+that other professors^
+footnote:[At this time the word professor was used to refer to those who professed faith in Christ.
+Here the word has nothing to do teachers or scholars.]
+lived and walked in.
 Though some of them would complain of their formalities,
 and were weary of the fashions of the world; yet they did not take up their cross,
 and leave them.
@@ -509,7 +521,7 @@ being brought before kings and rulers for my name`'s sake:
 and it shall turn to you for a testimony.
 Settle it therefore in your hearts, not to meditate before what ye shall answer;
 for I will give you a mouth and wisdom,
-which all your adversaries shall not be able to gainsay nor resist,`" Luke xxi, 13--15.
+which all your adversaries shall not be able to gainsay nor resist,`" Luke 21:13--15.
 
 These and the like afflictions I was to meet with,
 if I truly and faithfully followed the Lord Jesus Christ;
@@ -662,7 +674,6 @@ and it giveth light unto all that are in the house.
 Let your light so shine before men, that they may see your good works,
 and glorify your Father which is in heaven.`" Matt. 5:14-16.
 
-
 I was sensible that God had opened my Understanding and lighted my candle,
 and given me a sense and feeling of my own state and condition,
 how that I had been in darkness, and under the region and shadow of death;
@@ -676,7 +687,6 @@ as it were under a bushel, or to hide my talent in the earth; but in the love of
 I was made willing to let that light,
 which he pleased by his grace to enlighten me withal, shine before men,
 that they might come "`to glorify their Father, which is in heaven.`" Matt. 5:16.
-
 
 The next public service that the Lord required of me,
 was to go and give my testimony for him,
@@ -906,8 +916,7 @@ and to stand witnesses for him and his blessed truth, where he should send us.
 I might say with Tobias, "`Thou madest Adam, and gavest him Eve his wife,
 for a helper and a stay; of them came mankind.
 Thou hast said, It is not good that man should be alone,
-let us make an aid like himself,`" Toblt viii.
-6.
+let us make an aid like himself,`" Toblt 8:6.
 
 Soon after, in the Lord`'s time, we made what haste we could to come to the country,
 where we believed the Lord would have us to be; and we said, O Lord,
@@ -1099,7 +1108,7 @@ I continued about my calling and business,
 and waited upon God to know his mind and will concerning me.
 In this time I heard of an honest old woman,
 who had received the truth some time before at Montgomery, her name was Ann Hamon,
-wife of Thomas Llamon; my wife and I went to visit her.
+wife of Thomas Hamon; my wife and I went to visit her.
 
 About the year 1661, I went to a meeting at Edgemont near Wem, in Shropshire.
 Here our friend William Gibson and I were taken prisoners,
@@ -1354,7 +1363,11 @@ I went to a neighbour`'s back yard, having leave of him, to see them and speak w
 The sufferings of Friends being now very great, and still increasing,
 they sent the following paper to the quarter-sessions held at Montgomery.
 
-To the Justices mid Magistrates of this County of Montgomery.
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
+To the Justices and Magistrates of this County of Montgomery.
 
 Forasmuch as it is not unknown to you, that we, who by the scorners of this world,
 that know not God, are called Quakers, are detained and kept close prisoners,
@@ -1411,8 +1424,11 @@ and despitefully use us,
 who in patience and longsuffering are content to submit to the will of God,
 who renders to every man according to the deeds done in the flesh.`"
 
+[.signed-section-signature]
 Humphrey Wilson, Richard Davies, Edward Evans, Charles Lloyd, Hugh David, William Lewis,
 Sarah Wilson, Margaret Lewis, Catherine Evans, Anne Lawrence.
+
+--
 
 The foregoing paper was sent to the magistrates at their quarter-sessions,
 held at Montgomery, the 8th day of the eleventh month, 1662.
@@ -1474,7 +1490,11 @@ most that were then convinced were prisoners;
 the report of such who were turned Quakers being spread abroad,
 they were soon sent for before a magistrate,
 and the oath of allegiance and supremacy was tendered both to men and women;
-and they for conscience-sake refusing it, were sent to prison in order to be premunired.
+and they for conscience-sake refusing it, were sent to prison in order to be premunired.^
+footnote:[Premunire was a legal judgment designed to disenfranchise those who refused to formally swear allegiance to the King.
+Those under a sentence of premunire were considered traitors to their country.
+They lost all rights to property and possessions,
+were removed from under the kings protection, and were often imprisoned for life.]
 
 My friend Thomas Lloyd and I were moved to go and visit most of the
 justices that had a hand in committing Friends to prison;
@@ -1510,7 +1530,7 @@ He gave us no grant then for their enlargement,
 but we heard that he sent private instructions, and they had more liberty.
 The jailer had an empty house at the end of the town, and there he let Friends go,
 which was a sweet convenient place near the fields, without any keeper over them,
-'`and they had the liberty of the town, and to go where they pleased,
+and they had the liberty of the town, and to go where they pleased,
 except to their own houses.
 
 So Charles Lloyd took a house in town for him and his family to live in;
@@ -1582,14 +1602,14 @@ he came to give them a visit in the love of God,
 and also to visit those Independents he formerly walked among that were not convinced;
 and he left a paper with me to deliver to them, which was thus:
 
-A Lamentation and Warning from the Lord God, in the love of Christ Jesus,
-unto all the professors in North Wales, especially those about Wrexham in Denbighshire,
-and Welch-Pool in Montgomeryshire, whom formerly I have known, and walked with,
-in a fellowship and worship, till the Lord awakened me out of sleep,
-and opened in me an ear to hear his voice, which cried, Come out from amongst them,
-and be thou separate; touch no unclean thing, and I will receive thee.
+[.embedded-content-document.paper]
+--
 
- Friends,
+[.blurb]
+=== A Lamentation and Warning from the Lord God, in the love of Christ Jesus, unto all the professors in North Wales, especially those about Wrexham in Denbighshire, and Welch-Pool in Montgomeryshire, whom formerly I have known, and walked with, in a fellowship and worship, till the Lord awakened me out of sleep, and opened in me an ear to hear his voice, which cried, Come out from amongst them, and be thou separate; touch no unclean thing, and I will receive thee.
+
+[.salutation]
+Friends,
 
 Hear and lend an ear, ye professors of Wrexham and Welch-Pool,
 and all the places and towns adjacent thereunto, who have been called churches of Christ,
@@ -1845,7 +1865,7 @@ neither indeed am I able to demonstrate the loving kindness of the Lord,
 in the visitation of his pure love, in turning me from darkness,
 Which I must confess all the time I was with you, I walked in, into his marvellous light,
 and from the power of satan, unto God.
-lie hath made me to feel and witness his power, wherein,
+He hath made me to feel and witness his power, wherein,
 through his good will towards me, I have found the ability to perform and to do the good,
 that when I was amongst you I desired to do;
 and likewise to resist the evil that I would not do.
@@ -1878,9 +1898,13 @@ which that you may come to know and do, is the desire of your friend,
 that seeks not yours but you; and desires your everlasting peace and happiness,
 who formerly was known, and esteemed of, as a brother amongst you, by the name of
 
+[.signed-section-signature]
 James Parkes.
 
+[.signed-section-context-close]
 Wrexham, the 9th of the first month, 1662.
+
+--
 
 Several Friends, both from the North and South of England,
 were drawn to visit these Friends in prison,
@@ -1976,23 +2000,31 @@ and now you see we are come according to their desire.
 But I find that your priest is not here, and now I would have you to inform him,
 that I say:
 
+[.numbered]
 1+++.+++ If he prove this to be the true church of Christ;
 
+[.numbered]
 2+++.+++ And that he is a true minister of Christ;
 
+[.numbered]
 3+++.+++ And that his maintenance is a gospel maintenance;
 
+[.numbered]
 4+++.+++ And this worship of yours to be the true worship of God;
 
 Then we will be of your religion, and come again to you.
 But if he proves not this, then we must conclude:
 
+[.numbered]
 1+++.+++ Your church to be a false church;
 
+[.numbered]
 2+++.+++ And he to be no true minister of Christ;
 
+[.numbered]
 3+++.+++ That his maintenance is no gospel maintenance;
 
+[.numbered]
 4+++.+++ That your worship is not the true worship of God.
 
 All the people were very civil and orderly,
@@ -2297,6 +2329,9 @@ and endeavoured to hurt such who were simple-hearted.
 I was moved to give forth a paper against him and all his vain imaginations.
 The following paper was likewise sent to him from Friends:
 
+[.embedded-content-document.paper]
+--
+
 "`We whose names are here under-written,
 are those that thou hast been seeking to insinuate thy corrupt principles into;
 and also are those that testify against that seducing spirit that thou art gone into:
@@ -2307,10 +2342,13 @@ and so come under the judgment of the Lord, as we have done;
 and we have all seen the hurtful effects of that spirit,
 and in the fear of the Lord we do deny the same, and them that be joined to it.
 
---Charles Lloyd, Richard Evans, Owen Jones, Evan Davies, John Reese, Watkin David,
-William Lewis, Evan Thomas, Richard Davies, Thomas Hammons,--Elizabeth Lloyd,
+[.signed-section-signature]
+Charles Lloyd, Richard Evans, Owen Jones, Evan Davies, John Reese, Watkin David,
+William Lewis, Evan Thomas, Richard Davies, Thomas Hammons, Elizabeth Lloyd,
 Tace Davies, Ann Lawrence, Katherine Jones, Sibil Jones, Katherine Evans, Ann Hall,
 Sarah Wilson.
+
+--
 
 1668+++.+++ This being read in our monthly meeting for worship,
 the Lord was pleased to afford us his sweet presence, and his power melted,
@@ -2628,7 +2666,7 @@ When that meeting was ended in Radnorshire, we both withdrew a little aside from
 being bowed before the Lord, in a sense of his goodness amongst us.
 
 After a little while I turned my face towards the Friends,
-and saw a man coming towards me with much brokenness and tears; and when lie came to me,
+and saw a man coming towards me with much brokenness and tears; and when he came to me,
 he took me in his arms and held me there.
 I was very tender of him, though I knew him not.
 He asked me, whether I did not know him; I told him I did not; though I said,
@@ -2683,7 +2721,13 @@ It shall go well with them.`"
 
 About this time I was pretty much at home,
 and the enemy and adversary of the growth and prosperity of Truth in these parts,
-stirred up an informer against us, one John David, alias Pugh, a weaver,
+stirred up an informer^
+footnote:[Because of the political insecurity of the times,
+a law had been passed forbidding all religious gatherings except those taking place at the times and places authorized by the state.
+A monetary reward was offered by the government to any who would disclose the existence of an unauthorized religious meeting (called a conventicle).
+Those who "`snitched`" or betrayed their neighbors in this way were called __informers__,
+and were generally looked down upon by the honest members of society]
+against us, one John David, alias Pugh, a weaver,
 a tenant to the jailer.
 We had our meeting in an upper room in the prison, and the said informer dwelt below.
 Once as he was coming by my barns where my cattle were, he said to some of my neighbours,
@@ -3174,7 +3218,7 @@ and I desired the Friend to go to a Friend`'s house in Shropshire,
 which was out of the jurisdiction of that court,
 and stay there till he should hear from me.
 I sent to London to John Lloyd, brother to Charles Lloyd of Dolobran,
-who belonged to the chancery-ofiiee, and he sent me down a prohibition,
+who belonged to the chancery-office, and he sent me down a prohibition,
 and I sent to serve the priest and his attorney with it.
 The priest fell into a very great rage,
 and his attorney came to him for seven pounds charge that he laid out for him,
@@ -3261,6 +3305,10 @@ as in the wisdom of God they should see meet, at their half-year`'s meeting,
 held at Swanzey, the 28th of the seventh month.
 An account of which my friend Thomas Ellis sent me to London, as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear friend, Richard Davies,
 
 In the love of God is my remembrance of thee at this time,
@@ -3282,11 +3330,16 @@ and many other Friends besides from other remote parts,
 all zealous for the yearly meeting.
 We had meetings here the three last days,
 
+[.signed-section-closing]
 Thy friend and brother,
 
+[.signed-section-signature]
 Thomas Ellis,
 
+[.signed-section-context-close]
 Swanzey, the 28th of the Seventh month, 1681.
+
+--
 
 About the year 1680, or 1681, came Dr. William Lloyd, late of Martin`'s, in London,
 to be bishop of this diocess, called St. Asaph.
@@ -3321,10 +3374,13 @@ and once a small touch at the bread and wine.
 Thomas Lloyd held the last day, our reasons why we separated from the church of England;
 which were:
 
+[.numbered]
 1+++.+++ Because their worship was not a gospel worship.
 
+[.numbered]
 2+++.+++ Because their ministry was no gospel ministry.
 
+[.numbered]
 3+++.+++ Because their ordinances were no gospel ordinances.
 
 But they would not join with him to prove any of them, though often solicited thereunto;
@@ -3419,7 +3475,7 @@ viz. that water baptism was necessary to salvation, which I would not,
 where should they have an administrator, seeing St. Paul says expressly,
 "`He was not sent to baptise, but to preach the gospel;`" and thanked God,
 that he baptized none, except such and such?`"
-1 Cor. 1:14-- 17. And Peter, who baptized many,
+1 Cor. 1:14-17. And Peter, who baptized many,
 came so to see the invalidity of water baptism, that he said, "`By baptism we are saved,
 not the putting away of the filth of the flesh,
 (outward water could do no farther) but the answer of a good conscience towards God,
@@ -3523,12 +3579,15 @@ which he said he would; and our friend George Whitehead spoke farther to him.
 Then I turned to the secretary, who directed his words to me,
 and spoke to him thus in Welch:
 
+[.offset]
 "`Mae yn ddrwg gennif, fod vn o Hiliogaeth yr hen Frittaniaid;
 yr rhai ydderbyniodd y Grefydd Gristianogol yn gyntaf yd Loeger;
 yn erbyn yr rhai sydd gwedi derbyn y wir Gristianogol Grefydd yr awr hon,`"
 
+[.offset]
 The English is thus:
 
+[.offset]
 "`I am sorry that one of the stock of the ancient Britons,
 who first received the Christian faith in England,
 should be against those who have received the true Christian faith in this day.`"
@@ -3632,7 +3691,7 @@ and undefiled before God,`" James 1:27. And that the care of all, both poor, str
 and prisoners in affliction might be carefully and tenderly looked after,
 and supplied according to their necessities;
 and that the ministers of Christ in this day, might take the counsel of the apostle,
-who said, Acts xx, 28, "`Take heed therefore unto yourselves,
+who said, Acts 20:28, "`Take heed therefore unto yourselves,
 and to all the flock over the which the Holy Ghost hath made you overseers,
 to feed the church of God, which he hath purchased with his own blood.`"
 
@@ -3704,8 +3763,7 @@ is the pillar and ground of the truth.`"
 This, said I, may inform the blind and ignorant of this age, that lime and stone,
 and temples that are made with hands, are not, as they say, the church of Christ,
 and the house of God;
-"`for God dwelleth not in temples made with hands,`" as saith the prophet Isaiah, Ixvi.
-1, and the martyr Stephen, Acts 7:48.
+"`for God dwelleth not in temples made with hands,`" as saith the prophet Isaiah, 61:1, and the martyr Stephen, Acts 7:48.
 
 Thus I was concerned to declare the truth in that meeting,
 with much more to the same effect.
@@ -4070,12 +4128,15 @@ and in a little time I heard they were discharged.
 [.asterism]
 '''
 
-+++[+++Hitherto, reader,
++++[+++__Hitherto, reader,
 thou hast had a short relation of some of the labours and services of
 our ancient and honourable friend Richard Davies from his own account,
 which he finished a little before his decease; it remains, therefore,
 to give some account of his last year`'s travels, etc.,
-together with the time and manner of his departure, etc.]
+together with the time and manner of his departure, etc.__]
+
+[.small-break]
+'''
 
 In the year 1702, he went to London, his daughter Tace Endon accompanying him,
 and staid in and about the city several weeks, visiting Friends in their meetings,
@@ -4164,4 +4225,3 @@ and his body was borne by them to the grave yard, near his own house,
 and there decently interred near his wife`'s grave.
 In the grave yard there was held a solemn meeting, and several testimonies were borne,
 in the power and life of truth, to the general satisfaction of the people.
-
