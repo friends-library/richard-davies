@@ -20,7 +20,7 @@ And there, being exercised in the historical part of the scriptures,
 I could speak and talk of them, so that those people came to speak well of me,
 and this did not a little puff me up; so that I was not so serious,
 as I should have been, to get eternal life by Christ Jesus, who is the life himself,
-who said to the Jews, John v. 39, 40, "`Search, or you search the Scriptures,
+who said to the Jews, John 5:39, 40, "`Search, or you search the Scriptures,
 for in them you think you have eternal life, and they are they which testify of me:
 and you will not come to me, that you might have life.`"
 
@@ -144,11 +144,13 @@ they were upon the words Thee and Thou; but I very peremptorily asked him,
 what command he had to speak Thee and Thou;^
 footnote:[At this time in history, the correct and plain use of "`thee`" and "`thou`"
 to one person was beginning to give way to "`you`" and "`your.`"
-Most modern English speakers are unaware that the words "`you`" and "`your`" were originally plural pronouns used only to address two or more people,
-whereas "`thee`" and "`thou`" were used to address a single person. In the 1600's,
-it became fashionable (as a means of showing honor or flattery)
+Most modern English speakers are unaware that the words "`you`" and "`your`" were
+originally plural pronouns used only to address two or more people,
+whereas "`thee`" and "`thou`" were used to address a single person.
+In the 1600's, it became fashionable (as a means of showing honor or flattery)
 to use the plural "`you`" or "`your`" in addressing people of higher social status,
-while "`thee`" and "`thou`" were reserved for servants, children, or people of lower social or economic position.
+while "`thee`" and "`thou`" were reserved for servants, children,
+or people of lower social or economic position.
 Early Friends stuck to what was then considered "`plain language`"
 (using thee and thou to every single person, and you and your to two or more),
 rather than showing preferment by addressing certain individuals in the plural.]
@@ -394,7 +396,7 @@ I found that all the holy men of God used that language,
 and Christ taught his disciples to pray in that language; "`Our Father,
 which art in heaven, hallowed be thy name, thy kingdom come,
 thy will be done on earth as it is in heaven.`"
-Mat. 6.
+Matt. 6.
 And furthermore, I knew a little grammar, and how that it was improper to say vos +++[+++you]
 to one single person,
 instead of tu +++[+++thou]. And though the learned in our nation spoke it,
@@ -2721,10 +2723,13 @@ About this time I was pretty much at home,
 and the enemy and adversary of the growth and prosperity of Truth in these parts,
 stirred up an informer^
 footnote:[Because of the political insecurity of the times,
-a law had been passed forbidding all religious gatherings except those taking place at the times and places authorized by the state.
-A monetary reward was offered by the government to any who would disclose the existence of an unauthorized religious meeting (called a conventicle).
-Those who "`snitched`" or betrayed their neighbors in this way were called __informers__,
-and were generally looked down upon by the honest members of society.]
+a law had been passed forbidding all religious gatherings
+except those taking place at the times and places authorized by the state.
+A monetary reward was offered by the government to any who would disclose
+the existence of an unauthorized religious meeting (called a conventicle).
+Those who "`snitched`" or betrayed their neighbors
+in this way were called __informers__,
+and were generally looked down upon by honest members of society.]
 against us, one John David, alias Pugh, a weaver,
 a tenant to the jailer.
 We had our meeting in an upper room in the prison, and the said informer dwelt below.
