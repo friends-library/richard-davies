@@ -1,7 +1,7 @@
-== Testimonies Concerning Richard Davies
+== Testimonies Concerning Richard Davies.
 
-The Testimony and account of George Whitehead, concerning Richard Davies,
-and his ministry.
+[.blurb]
+=== The Testimony and Account of George Whitehead, Concerning Richard Davies, and His Ministry.
 
 In a true and living remembrance of this our dear brother,
 ancient and faithful servant and minister of Jesus Christ, Richard Davies,
@@ -84,11 +84,14 @@ which shall be the blessed estate and inheritance of all,
 who continue faithful in true love and unity, in the grace of God, while here on earth,
 unto the end of their days.
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 London, the 10th of the Twelfth month, 1709.
 
-A Short Testimony Concerning My Dear and Loving Father, Richard Davies.
+[.blurb]
+=== A Short Testimony Concerning My Dear and Loving Father, Richard Davies.
 
 I can truly say, he was a dear and tender father to me in my young years;
 and as I grew up, I had a sense of his great love and care over me;
@@ -177,14 +180,14 @@ If we continue in well-doing, and in the fear of the Lord,
 there is no question but we shall die in his favour,
 which I desire may be the lot of the whole heritage of God.
 
+[.signed-section-signature]
 Tace Endon.
 
+[.signed-section-context-close]
 Cloddiecochion, the 27th of the First month, 1708.
 
-A Testimony from friends and brethren of the Quarterly meeting for Montgomeryshire,
-Shropshire, and Merionethshire, held at Dolobran in Montgomeryshire,
-the 25th of the Eleventh month, 1708, concerning our ancient,
-honourable friend and elder, Richard Davies.
+[.blurb]
+=== A Testimony from friends and brethren of the Quarterly meeting for Montgomeryshire, Shropshire, and Merionethshire, held at Dolobran in Montgomeryshire, the 25th of the Eleventh month, 1708, concerning our ancient, honourable friend and elder, Richard Davies.
 
 He was one of the first of Friends in these parts,
 who received the blessed truth in the love of it;
@@ -240,17 +243,21 @@ when time to us will be no more.
 "`Blessed are the dead which die in the Lord, from henceforth; yes, says the spirit,
 that they may rest from their labours, and their works do follow them.`" Rev. 14:13.
 
+[.signed-section-closing]
+Signed on behalf of the said meeting, by us:
 
-Signed on behalf of the said meeting, by us, Charles Lloyd, Owen Roberts, Rowland Owen,
+[.signed-section-signature]
+Charles Lloyd, Owen Roberts, Rowland Owen,
 William Reynolds, Robert Vaughan, Humphrey Owen, Robert Griffithes, Jacob Endon,
 John Simpson, Owen Lewis, Thomas Cadwalader, Richard Lewis, John Richards, Ellis Lewis,
 William Osborn, Thomas Oliver, Joseph Davies, Richard Evans, Edward Ellis, William Soley,
 Richard Bembow, Griffith Owen, Richard Ruff, John Roberts, Julius Palmer, John Kelsall,
 Amos Davies.
 
-The Testimony of Rowland Owen, concerning his dear friend Richard Davies.
+[.blurb]
+=== The Testimony of Rowland Owen, Concerning His Dear Friend Richard Davies.
 
-A WEIGHTY consideration came upon my mind,
+A weighty consideration came upon my mind,
 how the Almighty in his unspeakable and unsearchable wisdom,
 who discerns the states and conditions of the sons and daughters of men,
 makes choice of some, cmd calls them from among their neighbours and relations,
@@ -316,4 +323,5 @@ and his beloved Son Jesus Christ, may have all the glory and thanksgiving,
 to whom it belongs, not only now, but henceforth and forever more.
 Amen.
 
+[.signed-section-signature]
 Rowland Owen.
