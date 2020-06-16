@@ -1999,6 +1999,9 @@ and now you see we are come according to their desire.
 But I find that your priest is not here, and now I would have you to inform him,
 that I say:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ If he prove this to be the true church of Christ;
 
@@ -2011,8 +2014,13 @@ that I say:
 [.numbered]
 4+++.+++ And this worship of yours to be the true worship of God;
 
+====
+
 Then we will be of your religion, and come again to you.
 But if he proves not this, then we must conclude:
+
+[.numbered-group]
+====
 
 [.numbered]
 1+++.+++ Your church to be a false church;
@@ -2025,6 +2033,8 @@ But if he proves not this, then we must conclude:
 
 [.numbered]
 4+++.+++ That your worship is not the true worship of God.
+
+====
 
 All the people were very civil and orderly,
 and heard me a considerable while in the steeple-house.
@@ -3376,6 +3386,9 @@ and once a small touch at the bread and wine.
 Thomas Lloyd held the last day, our reasons why we separated from the church of England;
 which were:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ Because their worship was not a gospel worship.
 
@@ -3384,6 +3397,8 @@ which were:
 
 [.numbered]
 3+++.+++ Because their ordinances were no gospel ordinances.
+
+====
 
 But they would not join with him to prove any of them, though often solicited thereunto;
 Friends being sufferers must submit to all disadvantages;
