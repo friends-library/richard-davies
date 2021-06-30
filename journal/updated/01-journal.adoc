@@ -334,8 +334,8 @@ that we through patience and comfort of the scriptures, might have hope,`" Rom. 
 And being under a serious consideration of what I read in the scripture,
 believing the Spirit of the Lord to be the interpreter thereof,
 those great mysteries that were hid from ages and generations,
-(and are still hid from many in this age) are come to be revealed by the Spirit of God.
-And if they would have comfort in reading the scriptures,
+(and are still hid from many in this age) come to be revealed by the Spirit of God.
+And if men seek comfort in reading the scriptures,
 they must wait in that measure of the Spirit which God has given them,
 which is the only key that opens the scriptures to the understanding of
 those who are truly conscientious in the reading of them.
@@ -353,7 +353,7 @@ Many times, when I arose from my knees in a formal way of prayer,
 a reproof was very near me, "`Who required this at your hands?
 It is sparks of your own kindling.`"
 I was afraid that I should "`lie down in sorrow,`" as was said to some by the Lord,
-in Isaiah 1:11.
+in Isaiah 50:11.
 
 But as to this subject, I shall briefly conclude,
 though much more might be said to the honour of the holy scriptures.
@@ -362,7 +362,7 @@ may come to that which will give them a right understanding thereof;
 "`For there is a spirit in man,
 and the inspiration of the Almighty gives them understanding,`" Job 32:8.
 
-Now, concerning water baptism, which I had under consideration,
+Now, I also had under consideration the subject of water baptism,
 though I was no admirer of it, being not of the persuasion of re-baptizing.
 Those called Independents were not very much for re-baptizing in the beginning,
 but afterward it prevailed more among them in these parts,
@@ -373,8 +373,8 @@ and the bread and wine.
 And when I was satisfied as to those weighty concerns, I thought I might rest there,
 and keep my old customs and fashions, and language; but that would not do,
 for I had no peace therein.
-God showed me the customs of the nation were vain,
-and our language not according to the language of God`'s people,
+God showed me that the customs of the nation were vain,
+and that our language was not according to the language of God`'s people,
 recorded in the scriptures of truth.
 So I made a conscientious search into this matter also,
 where I found that the great Creator of heaven and earth,
@@ -386,7 +386,12 @@ and Adam gave names to them.
 And God took him, and put him in the garden of Eden, to dress it and to keep it.
 And the Lord commanded the man, saying,
 '`Of every tree of the garden thou may freely eat,`'`" Gen 2:15-16.
-This is the first Thou spoken to man
+This is the first Thou spoken to man footnote:[Richard Davies is not
+suggesting that God spoke to Adam using the English word "`thou`",
+but rather that nowhere in the Bible, from the beginning to the end,
+is an individual person addressed by God (or by anyone else)
+using a plural pronoun, like "`you`" or "`your`".
+See the footnote near the beginning of this journal respecting the use of "`plain language.`"]
 that I read of in the scripture; and the great Creator said,
 "`Everything that He had made was very good,`" Gen. 1:31.,
 and His language to man was very good and pure.
@@ -440,7 +445,7 @@ This necessity being laid upon me, I spoke to my master in that dialect;
 he was not offended at it, because he was convinced of the truth of it,
 and that it ought to be spoken to everyone. But when I spoke it to my mistress,
 she took a stick and gave me such a blow upon my bare head,
-that made it swell and sore for a considerable time. She was so disturbed at it,
+that made it swell and was sore for a considerable time. She was so disturbed at it,
 that she swore she would kill me, though she would be hanged for it.
 The enemy had so possessed her that she was quite out of order;
 though before this time she very seldom, if ever, spoke an angry word to me.
@@ -467,10 +472,10 @@ all who see it begin to mock him, saying, `'This man began to build,
 but was not able to finish?`'`" Luke 14:27-30.
 
 This consideration was weighty with me, lest I should begin to take up the cross,
-and to walk in this way, and should not be able to hold out to the end. First,
+and to walk in this way, and should not be able to hold out to the end--first,
 because of the temptation of Satan, the lust of the flesh,
 and the sinful customs and fashions of this world, which were very prevalent;
-and the weight and burden that was upon me was great,
+and also, because a great weight and burden were upon me,
 having none in the country to be a help to me in the time of my exercise
 but the Lord alone,
 who has promised to be with His people in all their troubles and exercises,
@@ -486,7 +491,7 @@ that other professors^
 footnote:[At this time the word professor was used to refer to those who professed faith in Christ.
 Here the word has nothing to do teachers or scholars.]
 lived and walked in.
-Though some of them would complain of their formalities,
+Though some of them would complain of their religious formalities,
 and were weary of the fashions of the world, yet they did not take up their cross
 and leave them.
 
@@ -549,7 +554,7 @@ And the Lord alone appeared to my deliverance,
 and made her more moderate the rest of my servitude,
 it being somewhat less than two years. And after I went away,
 the Lord visited her with a sharp fit of sickness,
-in which time she spoke to her husband and them that were with her,
+in which time she spoke to her husband and those that were with her,
 saying that she thought she should not die till she had asked me forgiveness,
 and desired them to send for me if it were at London; and so they did.
 I could freely forgive her, for I had done so long before,
@@ -557,7 +562,7 @@ and I prayed to my heavenly Father that He might forgive her also.
 I sent to her, and it pleased God to touch her with a sense of His love,
 and lengthen her days;
 she afterwards confessed often the wrong she had done to an honest and
-careful young man, as she said I had been, who minded her husband`'s
+careful young man, as she said I had been, who minded her and her husband`'s
 inward and outward good
 more than they did themselves.
 It pleased God to order it so that she had a visit from me
@@ -568,11 +573,11 @@ and was buried in Friends`' burying place near Dolgelle in Merionethshire.
 About this time, 1657, it was the great talk of the country that I had become a Quaker.
 My parents were much concerned about me.
 I was informed that the priest of Welch-pool, W. Longford, went to them and told them
-that I had strayed from the way,
+that I had gone mad,
 and that they should send for some learned men to come to me and restore me to my senses.
 I had not yet been with my father nor mother,
 but waited for freeness and clearness in myself, and then I went to see them.
-In my way I visited an old friend of mine, a professor,
+In my way I visited an old friend of mine, a professor of Christianity,
 and had a little opportunity to speak to him of the things of God,
 and His goodness to me. And a young man, called David Davies,
 was then convinced of the truth. This was on a seventh-day, in the afternoon.
@@ -584,7 +589,7 @@ My father soon turned his back upon me.
 I had heard of his displeasure, and that he had said he would leave me nothing,
 saying to my relations that they had expected to have had comfort in me,
 but now they expected none, but that I would go up and down the country, crying "`Repent! Repent!`"
-Now if my father should have cast me off upon such an account,
+Now if my father would have cast me off upon such an account,
 I was well persuaded it was for Christ`'s and the gospel`'s sake.
 I remembered David`'s condition when he said, "`Hide not Your face far from me,
 put not Your servant away in anger. You have been my help, leave me not,
@@ -599,22 +604,22 @@ and that they bewitched people to their religion, etc.
 Thus they deceived them and many others with such strange stories,
 and we were accounted, with the apostles, deceivers, yet true.
 And when I discoursed with her out of the scriptures,
-her heart was much tendered and affected with the goodness of God towards me;
-she went to look for my father, and when she found him, said unto him, "`Be of good comfort,
+her heart was much tendered and affected with the goodness of God towards me.
+She went to look for my father, and when she found him, said unto him, "`Be of good comfort,
 our son is not as was reported of him, we hope to have comfort of him yet.`"
 But when my father came to his house, he spoke not much to me that night.
 
 The next day, being the first day of the week, when I heard the bells ring,
 it came upon me to go to the steeple-house
-to visit that priest that had told my father I had strayed from my senses, etc.
+to visit that priest that had told my father I had gone mad, etc.
 And when he was at his worship,
-I went to our own seat by my father;
-there was no common-prayer read then to the people
+I went to our own seat by my father.
+There was no common-prayer read then to the people
 as part of their worship in those days. There I sat still till he had finished,
 and when he had spoken what he had then to say,
 I stood up and told him that he might do well to stay,
 and make good the false doctrine that he had preached that day, if he could.
-And if I was distracted, as he reported,
+And if I was mad, as he reported,
 that he might labour to restore me to my right senses again.
 But I had spoken but a little while before I was taken away to prison
 with the young man before mentioned, David Davies, who came to look for me,
@@ -629,7 +634,7 @@ created anew in Christ Jesus;`" with much more to that effect.
 I spoke to them from the scripture, which was much to their satisfaction,
 and we praised God, that kept us in His fear and counsel.
 
-We were committed to prison on the law, made in Oliver`'s days,
+We were committed to prison according to the law made in Oliver`'s days,
 that none were to speak to the priest or preachers, neither at their worship,
 nor coming and going.
 The next morning we were summoned before the
@@ -664,7 +669,7 @@ We waited to feel the Lord among us in all our comings together.
 When the first-day of the week came,
 we went to a meeting at W. Pane`'s, at the Wild Cop,
 where we had a silent meeting; and though it was silent from words,
-yet the word of the Lord was among us.
+yet the Word of the Lord was among us.
 It was a hammer and a fire, sharper than any two-edged sword;
 it pierced through our inward parts, and melted and brought us into tears,
 so that there was scarcely a dry eye among us.
@@ -674,7 +679,7 @@ that God alone was master of that assembly.
 The next day as I was preparing for home,
 having spent a considerable time with Friends there,
 and being much comforted with the goodness of God and unfeigned love of the brethren,
-we heard that John ap John was come to town, and was to have a meeting there.
+we heard that John ap John had come to town, and was to have a meeting there.
 I attended that meeting, where I heard the first Friend that was called a Quaker
 preach in a meeting, and when I heard him, I thought he spoke as one having authority,
 and not as the Scribes, his words were so sound and piercing.
@@ -688,7 +693,7 @@ and it gives light unto all that are in the house.
 Let your light so shine before men, that they may see your good works,
 and glorify your Father which is in heaven.`" Matt. 5:14-16.
 
-I was sensible that God had opened my understanding and lightened my candle,
+I was sensible that God had opened my understanding and lit my candle,
 and given me a sense and feeling of my own state and condition--
 how I had been in darkness, and under the region and shadow of death.
 And God having showed mercy and kindness unto me,
@@ -704,12 +709,12 @@ pleased by His grace to enlighten me with, shine before men, that they might com
 
 The next public service that the Lord required of me
 was to go and give my testimony for Him,
-and to warn a company of people to think of their latter end,
-who were met to dance and to play at what they called a merry night,
+and to warn a company of people to consider their latter end,
+who had met together dance and to play at what they called a merry night,
 not far from my master`'s house.
 When I came within the room where they were dancing, the fiddler ceased playing,
 and they dancing, and I declared the word of the Lord among them.
-That which was chiefly before me was that of Job;
+That which was chiefly before me was that saying of Job;
 "`They send forth their little ones like a flock, and their children dance.
 They take the timbrel and harp, and rejoice at the sound of the organ.
 They spend their days in mirth,
@@ -767,7 +772,7 @@ As I sat weightily under a serious consideration of
 what and when would be the end of these formalities and hardness of heart,
 I prayed to the Lord for them.
 And the word of the Lord came to me, that though they put me out of their house,
-yet in time they would come to own truth,
+yet in time they would come to acknowledge the truth,
 and that house should be a meeting-place for Friends.
 Of this a further account may be seen hereafter.
 
