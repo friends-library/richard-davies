@@ -1039,7 +1039,7 @@ though I was never a soldier, nor bore any arms for either side.
 And in a little time a troop of horsemen came for me, to bring me to prison.
 My relations offered to give bail for me, but it was not accepted,
 so I went to inform my wife of it, and to make myself ready to go with them.
-One of the soldiers came up the stairs after me, with a pistol and a naked sword,
+One of the soldiers came up the stairs after me, with a pistol and an unsheathed sword,
 and my wife raising herself up and sitting in bed,
 (she having been confined to bed but three days before
 with the birth of her first child), she said,
@@ -1086,13 +1086,13 @@ So I went there alone, and told the marshal, John Mason,
 that I had come as prisoner; and he took me up to an upper garret for my lodging.
 But I had freedom of the whole house, as did the other prisoners,
 there being many Presbyterians, Independents, and Baptists,
-who were formerly very acquainted with me; but now they appeared very strange,
+who were formerly my close acquaintances; but now they appeared very strange,
 and would not discourse with me.
 I wondered at the reason for this, and was informed
 that these old, formal church-members or professors had agreed
 among themselves that they would not discourse with me,
 nor receive any books from me,
-lest the most inwardly serious Christians among them turn Quakers.
+lest the most serious and inward Christians among them should turn Quakers.
 But in a little time their orders and covenants were broken,
 and I was moved by the Lord to go to their meetings,
 sometimes having little to say among them
@@ -1121,7 +1121,7 @@ and to live in it and obey it. Her name was Margaret Bowen,
 wife of John Bowen of Colfryn, and mother to Peter Bowen,
 in Martin`'s-le-Grand, London.
 
-In a little time, my service was over among those professors in that prison,
+In a little time, my service was over among the professors in that prison,
 and the Lord made way for my freedom.
 In about two weeks I was set at liberty, and left the rest of the prisoners there,
 where they continued a considerable time.
@@ -1142,8 +1142,8 @@ About the year 1661, I went to a meeting at Edgemont, near Wem, in Shropshire.
 Here our friend William Gibson and I were taken prisoners,
 with about twenty-five or twenty-six more, and sent to Shrewsbury.
 We found the temper of the jailer to be very cruel.
-He threatened us with a great deal of hardship if we did not eat of his food,
-drink of his drink, and lie on his beds, and give him what he demanded.
+He threatened us with a great deal of hardship if we
+did not eat his food, drink his drink, lie on his beds, and give him what he demanded.
 We told him we were the king`'s prisoners, and demanded a free prison,
 and straw to lie upon; but he in a rage would not permit it,
 and put us in a little room,
@@ -1163,7 +1163,7 @@ for we suffered for conscience-sake towards God,
 and dared not break the command of Christ and the apostle,
 who commanded us not to swear at all (for our supposed transgression
 was not only for meeting together,
-but for refusing the oaths of allegiance and supremacy).
+but for refusing to take the oaths of allegiance and supremacy).
 The jailer being a very passionate and inconsiderate man,
 he would depart in the morning from his house and not come back till night,
 and then returned so drunken, that he could hardly speak or stand.
@@ -1194,7 +1194,7 @@ to suffer that hardship. I desired him to let them have
 liberty to go to their friends in town at night,
 and to return in the morning;
 and if he wasn`'t willing to grant them a little straw,
-then to let them go lie in their own beds; which he sullenly denied,
+then to let them go lie in their own beds; which he roughly denied,
 calling them a company of rogues and knaves, and such like terms.
 He asked me what compelled me to plead for them. I told him they were my friends.
 He answered, "`Why your friends? You are no Quaker, are you?`"
@@ -1214,7 +1214,7 @@ and discoursed kindly with him. He said he had enquired about me in town,
 and that I might have the liberty of the town if I wished.
 I acknowledged his kindness, but told him it would be no comfort to me
 to have the liberty of the town, and leave my friends and brethren there in prison.
-He said I might stay there in prison with them, then.
+He said, "`Then you may stay there in the prison with them.`"
 So I did not see him till the next morning, and then I went to him again.
 He was in such a cross and bitter condition,
 that he would not allow any other Friend to speak to him.
@@ -1232,14 +1232,14 @@ to go home till the next court session; but it was not then granted,
 although he told me that if I pleased I might go home till then.
 I told him he might as freely let them go as me, for most of them lived in the county,
 and I lived out of the county; but we could get nothing more from him at that time.
-I was uneasy in myself to leave him alone, seeing he had a regard for me,
+Seeing he had a regard for me, I felt uneasy in myself to let it drop,
 and so continued to press for my friends`' further liberty.
 
 A little time afterwards, by the argument that it was harvest time,
 and hard for the mens`' wives, or some of their families,
 to obtain their weekly necessities, I, with my friend John Millington,
 prevailed with him to let us go,
-him taking our word that we would appear at the next court session.
+he taking our word that we would appear at the next court session.
 
 Through the goodness of God, we all returned together to our prison at Shrewsbury
 before the court session, and found a great alteration in the jailer;
@@ -1254,8 +1254,9 @@ for he confessed he had been too severe to us; "`but notwithstanding,`" said he,
 "`you are merciful men, and can forgive wrongs and injuries.`"
 
 When we came to Bridgenorth,
-we were put in a large, spacious room in the house of correction.
-We arrived there in the day time, so that we might all be together and ready when called for;
+we were put in a large, spacious room in the house of correction,
+in order to be there during the day time,
+that we might all be together and ready when called for;
 but we had the liberty to go in and out for lodging and what necessaries we needed,
 no keeper being over us but those which we set ourselves to watch the door,
 to ensure that too many Friends might not be out at once,
@@ -1265,8 +1266,8 @@ for it was a strange thing to people to hear of Quakers.
 
 Once it fell to my lot to be at the door. The door was always open,
 so that those who desired to do so
-might come and see us (several of whom we had reasonings and
-disputes with about the way of truth and righteousness). While I was at the door,
+might come and see us (with several of whom we had reasonings and
+disputes about the way of truth and righteousness). While I was at the door,
 there came one
 who appeared somewhat like a gentleman, and asked me whether he might see the Quakers;
 I bade him follow me to our room, and he would see them.
