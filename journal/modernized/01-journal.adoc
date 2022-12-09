@@ -3169,7 +3169,7 @@ who was then in London.
 When counsellor Corbet heard of the business, he was much concerned,
 for he was very well acquainted with this Walcott, and said,
 By that way they might try us all, if Popery came up again; for they have, said he,
-the writ De Hceretico Comhurendo in force, which was executed in queen Mary`'s days,
+the writ _De Hceretico Comhurendo_ in force, which was executed in queen Mary`'s days,
 for the burning of heretics, which was not repealed to this day.
 So counsellor Corbet and Thomas Lloyd went to the parliament-house,
 and acquainted several parliament-men of it, and that session it was repealed;
@@ -3220,7 +3220,7 @@ acquainted him of the errors of the proceedings in the county court;
 and the sheriff ordered the bailiffs to return the Friend his cattle again;
 so the priest was in a great fret that he lost all that charge.
 After that, he ordered the Friend to be sued at Ludlow court,
-which was for the marches of Wales.
+which was for the Marches of Wales.
 This court was a great yoke and bondage to Friends in this dominion;
 for all answers were to be given upon oath in that court,
 which Friends could not do for conscience sake.
@@ -3260,7 +3260,7 @@ Corbet said, when we join in demurrer you may know.
 So they joined in demurrer; and when it came to be urged, he showed his cause of demurrer.
 So the judge and the court were convinced of the error, and they paid cost,
 and mended the declaration,
-and the next court session they obtained judgment upon Nihil dicit.
+and the next court session they obtained judgment upon _Nihil dicit._
 So Charles Lloyd`'s cattle were driven for treble damage;
 but the priest was so perplexed, and put to charge and trouble,
 that I do not know he ever sued any Friend for tithe again.
@@ -3428,11 +3428,11 @@ It was agreed by consent of all parties concerned, that the dispute should not b
 I stayed a pretty while in London; and when the Lord made way for me,
 I took my leave of the city Friends,
 letting them understand that I was preparing homewards, intending for my prison,
-upon the writ De Excommunicato Capiendo, that was out against me and our Friends,
+upon the writ _De Excommunicato Capiendo,_ that was out against me and our Friends,
 and other dissenters in this diocess called St. Asaph.
 A little time before I came out of the city, there came two or three grave citizens,
 I suppose of the Independent congregation, and told me,
-they were come to let me know that there was a writ De Excommunicato Capiendo,
+they were come to let me know that there was a writ _De Excommunicato Capiendo,_
 out against me,
 and there was one of their friends already in prison on the same writ in our county,
 and if I would contribute with them, they said, they knew how to make it void.
@@ -3444,16 +3444,16 @@ but I would contribute nothing towards it; for I told them,
 I would hasten home as soon as I could, and go to prison if required.
 They said, they were satisfied I had other reasons why I would not make the writ void,
 and desired me to be free with them, and tell them my reasons.
-I told them, I thought they might make that writ void with a great deal of charges; but,
-said I, how will you prevent the bishop from coming on again with another writ,
+I told them, I thought they might make that writ void with a great deal of charges; "`but,`"
+said I, "`how will you prevent the bishop from coming on again with another writ,
 which you cannot make void?
 If there be any error in their proceedings in this,
 no doubt but the bishop and chancellor will mend it in the next.
 And whether do you think it is better for me to go to prison on a false writ,
-or on a writ that you can find no error in?
-I said, if I go to prison on this erroneous writ,
+or on a writ that you can find no error in?`"
+I said, "`if I go to prison on this erroneous writ,
 and the sheriff or jailer gives me my liberty,
-the bishop or the chancellor cannot justly sue them.
+the bishop or the chancellor cannot justly sue them.`"
 These men went away well satisfied with the reasons I gave them,
 and I know of no money they spent to make the writ void.
 
@@ -3476,15 +3476,15 @@ When we came there, the bishop`'s secretary came to the gate.
 I asked him whether the bishop was within; he said, he was; and asked me,
 Who would speak with him?
 I told him, that Richard Davies would speak with him.
-What, said he, of Welch-Pool?
-Yes, said I. What, said the secretary, my lord bishop!
-Bishop, as it signifies an overseer, said I, I own; but lord bishop I deny.
+"`What,`" said he, "`of Welch-Pool?`"
+"`Yes,`" said I. "`What,`" said the secretary, "`my lord bishop!`"
+"`Bishop, as it signifies an overseer,`" said I, "`I own; but lord bishop I deny.`"
 So the bishop sent for us in, and there were several clergymen with him,
 among the rest the dean of Bangor, before mentioned.
 The bishop seemed to be dissatisfied that I was
 not with them at the dispute at Llanvilling;
-we went soon to dispute about water-baptism; I told them.
-There was one Lord, one faith, and one baptism;
+we went soon to dispute about water-baptism; I told them,
+"`There was one Lord, one faith, and one baptism;`"
 and that baptism was necessary to salvation; and that water-baptism,
 which was John`'s baptism, was to continue and remain but for a season.
 So this, and such like discourse, held us till it was late at night;
@@ -3494,7 +3494,7 @@ I said, if one should grant what they desired, namely,
 that water baptism was necessary to salvation, which I would not,
 where should they have an administrator, seeing St. Paul says expressly,
 "`He was not sent to baptise, but to preach the gospel;`" and thanked God,
-that he baptized none, except such and such?`"
+that he baptized none, except such and such?
 1 Cor. 1:14-17. And Peter, who baptized many,
 came so to see the invalidity of water baptism, that he said, "`By baptism we are saved,
 not the putting away of the filth of the flesh,
@@ -3504,11 +3504,11 @@ by the resurrection of Jesus Christ,`" 1 Pet.
 I put them to prove who sent them to baptise.
 The dean told me, such a one ordained him; and so named from one to another.
 I told him I thought I should send him to Rome for their succession and ordination.
-They said, Yes, the ordination might be good, though it came from Rome.
-He brought a comparison; as suppose a malefactor was condemned to die,
+They said, "`Yes, the ordination might be good, though it came from Rome.`"
+He brought a comparison: "`Suppose a malefactor was condemned to die,
 and a reprieve was obtained, and it came down by the hangman`'s hand;
-and though it came so, yet, said he, the pardon was good.
-Then said I, your ordination comes not by the spirit and power of God.
+and though it came so, yet,`" said he, "`the pardon was good.`"
+"`Then,`" said I, "`your ordination comes not by the spirit and power of God.`"
 This return made them somewhat uneasy; and the time being far spent,
 I was willing to be discharged, having been there part of three days.
 
@@ -3516,19 +3516,19 @@ I told the bishop of good old David, who said, Ps. 26:6,
 "`I will wash my hands in innocency, so will I compass your altar, O God;
 that I may publish with the voice of thanksgiving and tell of all your wondrous works.`"
 Then I said to the bishop,
-You can not say you will wash your hands in innocency, nor compass the altar of God,
+"`You can not say you will wash your hands in innocency, nor compass the altar of God,
 while your writs remain against so many innocent people, willing to suffer till death,
-for the testimony of their consciences towards God.
-And I said, Bishop Lloyd, if I go to prison upon this account,
-I shall have more peace there than you shall have in your palace.
+for the testimony of their consciences towards God.`"
+And I said, "`Bishop Lloyd, if I go to prison upon this account,
+I shall have more peace there than you shall have in your palace.`"
 I also said,
-Suppose another prince should arise that would impose
+"`Suppose another prince should arise that would impose
 something upon you that you could not do for conscience-sake,
-what would you do?
-He said, Then I will go to Pennsylvania also:
+what would you do?`"
+He said, "`Then I will go to Pennsylvania also:`"
 for at that time many Friends were about going there.
-Then it came clearly to me, and I said to the bishop, Though your head be grey,
-yet you may live to see liberty of conscience in England;
+Then it came clearly to me, and I said to the bishop, "`Though your head be grey,
+yet you may live to see liberty of conscience in England;`"
 though as to outward appearance, it seemed to be very far from it at that time.
 
 The bishop called for pen and ink, and said,
@@ -3538,8 +3538,8 @@ So he wrote to the chancellor, to suspend the execution of the writ.
 When he had done, he read the letter to me, and I owned his kindness to us all therein.
 Then I took lord Hide`'s letter out of my pocket, and gave it him.
 When he saw the superscription, and knew from where it came, he asked me,
-How I came by it; I told him, As I was coming out of London, intending for prison,
-a friend of mine brought me that letter the same morning that I left the city.
+how I came by it; I told him, "`As I was coming out of London, intending for prison,
+a friend of mine brought me that letter the same morning that I left the city.`"
 When he had read it, he said,
 he hoped I was satisfied that he had granted me the contents of that letter.
 I told him it was so, and I hoped he would have his reward for his well-doing.
@@ -3581,15 +3581,15 @@ I went to lord Hide,
 and acknowledged his kindness for his letter on my behalf to the bishop.
 He told me that I should tell the bishop, there would be liberty of conscience in England.
 I told him, I did say so; and did believe it would be so in God`'s time.
-Secretary Jenkin spoke in a scornful manner, and asked me, What was Welch for a Quaker;
-I answered him, Crynwr, Crynwyr; it being the singular and plural number.
-But the secretary said, We had no Welch for it,
-for there were no Quakers in the Romans`' days.
-My friend Charles Lloyd answered, If you did ask my friend the question aright,
+Secretary Jenkin spoke in a scornful manner, and asked me, "`What was Welch for a Quaker;`"
+I answered him, "`Crynwr, Crynwyr;`" it being the singular and plural number.
+But the secretary said, "`We had no Welch for it,
+for there were no Quakers in the Romans`' days.`"
+My friend Charles Lloyd answered, "`If you did ask my friend the question aright,
 he has answered you aright; for there is English, Welch, Latin, Greek, and Hebrew,
-for a Quaker.
-So the secretary said, Sir, I understand Welch pretty well, and English, and Latin,
-and Greek; but if you go to your Hebrew, I know not what to say to you.
+for a Quaker.`"
+So the secretary said, "`Sir, I understand Welch pretty well, and English, and Latin,
+and Greek; but if you go to your Hebrew, I know not what to say to you.`"
 
 I left my friend Charles Lloyd to engage with his peevish countryman,
 and presented lord Hide with a long list of the names of men, women, and children,
@@ -3660,7 +3660,7 @@ I told the people, that the children of God in these days,
 were the children of the new covenant; and the covenant that he makes with them is,
 that "`They shall all know him, from the least to the greatest;
 and the true knowledge of God to his people in these days,
-is life eternal,`" John 17:3 though Israel of old were destroyed for lack of knowledge,
+is life eternal,`" John 17:3, though Israel of old were destroyed for lack of knowledge,
 because they forgot the God of their fathers, that brought them out of the land of Egypt,
 and out of the house of bondage, insomuch that the Lord complained of them, and said,
 "`The ox knows his owner, and the ass his master`'s crib,
@@ -3673,8 +3673,8 @@ These were such as the apostle said,
 "`When they knew God they glorified him not as God, neither were thankful,
 but became vain in their imaginations, and their foolish heart was darkened.
 For this cause God gave them up unto vile affections and a
-reprobate mind,`" Rom. 1:26. And the apostates in our days,
-said I, have forgot the God that first made them acquainted in measure with him;
+reprobate mind,`" Rom. 1:26. "`And the apostates in our days,`"
+said I, "`have forgot the God that first made them acquainted in measure with him;
 so having lost the sense of his goodness,
 have separated themselves from the love and unity of the brethren;
 but the children of God,
@@ -3684,8 +3684,8 @@ These are not destroyed for lack of knowledge, though the world know him not.
 There are apostates in our age, who have lost the true knowledge of him;
 but the saints in light have, and remain in, the true knowledge of him,
 being guided by the Spirit of truth, whom the world cannot receive,
-because it sees him not, neither knows him; "`but you know him, for he dwells with you,
-and shall be in you,`" John 14:17. When I had thus eased my spirit,
+because it sees him not, neither knows him; '`but you know him, for he dwells with you,
+and shall be in you,`'`" John 14:17. When I had thus eased my spirit,
 a concern came upon our friend and brother, George Whitehead,
 and he sweetly concluded the meeting in prayer.
 
@@ -3728,10 +3728,10 @@ as honest Robert Jones, and Richard Baker,
 who loved the Lord and his blessed truth with all their hearts,
 and several others present in that meeting.
 There stood up a young man that I knew not, whose heart was affected,
-and much broken in spirit, and said: There is a man come this day among us,
+and much broken in spirit, and said: "`There is a man come this day among us,
 I know not from where he came, nor where he goes; but this I am satisfied,
 the Lord sent him here, and his power and presence is with him,
-and his testimony for the God of truth.
+and his testimony for the God of truth.`"
 I enquired afterwards who that young man was; they said he was one John Thornton.
 
 Upon this one of the party broke in violently and
@@ -3765,7 +3765,7 @@ for it is said, Matt. 11:27, "`No man knows the Son but the Father;
 neither knows any man the Father, save the Son,
 and he to whomsoever the Son will reveal him.`"
 God revealed unto Peter, that Christ was the Son of God;
-and he is the only rock that his church is built upon the rock of ages,
+and he is the only rock that his church is built upon--the rock of ages,
 the foundation of many generations, that the gates of hell never prevailed against.
 But the gates of hell prevailed against Peter,
 when he denied his Lord and Master in the time of his sufferings;
@@ -3779,11 +3779,11 @@ acceptable to God, by Jesus Christ.`"
 And in verse 8, he acknowledged Christ to be the Rock.
 Paul says, 1 Tim. 3:15, that "`The house of God, the church of the living God,
 is the pillar and ground of the truth.`"
-This, said I, may inform the blind and ignorant of this age, that lime and stone,
+"`This,`" said I, "`may inform the blind and ignorant of this age, that lime and stone,
 and temples that are made with hands, are not, as they say, the church of Christ,
 and the house of God;
-"`for God dwells not in temples made with hands,`"
-as says the prophet Isaiah, 61:1, and the martyr Stephen, Acts 7:48.
+'`for God dwells not in temples made with hands,`'
+as says the prophet Isaiah, 61:1, and the martyr Stephen, Acts 7:48.`"
 
 Thus I was concerned to declare the truth in that meeting,
 with much more to the same effect.
@@ -3907,7 +3907,7 @@ when I queried of him.
 What if another prince should arise,
 that would impose something upon him that he could not do for conscience-sake?
 And that year when at London, I went to visit him in his troubles; and he said to me,
-I often thought of your words, and I could wish I were in Pennsylvania now myself.
+"`I often thought of your words, and I could wish I were in Pennsylvania now myself.`"
 He told me the reason why they could not read the declaration, saying it was arbitrary,
 and not according to law, and that it was a matter of conscience to them;
 and others were to have their liberty by it, besides Protestant dissenters.
@@ -3917,17 +3917,17 @@ but when I told him of it before, he could not believe it, till it came thus upo
 I had acquainted him formerly,
 that I had read a sermon that was preached to
 prove the church of Rome to be a false church;
-because she was a persecuting church: and now, said I,
-the members of the church of Rome puts you on,
+because she was a persecuting church: "`And now,`" said I,
+"`the members of the church of Rome puts you on,
 not only to persecute upon the penal laws that were made against dissenters,
 but by those laws also that were made against Popish recusants;
 and by the same argument may we and they say, the church of England is a false church,
-because it is a persecuting church.
+because it is a persecuting church.`"
 The bishop said, they did not consider nor know it then as they did now.
 I took my leave of him, and he kindly acknowledged my visit;
 and after some time they were released.
 
-Afterwards the bishop came to Welch-Pool, in the assize week,
+Afterwards the bishop came to Welch-Pool, in the week of the court sessions,
 and in the evening sent for me to the high-sheriff`'s house;
 there being with them most of the justices and deputy lieutenants of the county,
 with many of the clergy, who were very civil to me.
@@ -3965,11 +3965,11 @@ and told them there was an act of parliament ordering a more easy way,
 and with less charge, to recover by distress, than to drive to excommunications.
 He enquired for the act, which I gave him; and he turned to that clause,
 read it to the wardens, saying that he himself drew that clause in the act,
-and told them how they ought to go to the justices for a warrant; but, said he.
-Why will you go to the charge of a warrant?
+and told them how they ought to go to the justices for a warrant; "`but,`" said he,
+"`Why will you go to the charge of a warrant?
 Cannot you go and lake a pewter dish, or some other thing near the value?
-I warrant they will never sue you for it; for, said he, we must do unto them,
-as we would be done unto, if we were in their condition: so he quickly dispatched them.
+I warrant they will never sue you for it; for,`" said he, "`we must do unto them,
+as we would be done unto, if we were in their condition:`" so he quickly dispatched them.
 Then I told him, I was come moreover in the behalf of a prisoner on the same account,
 whose name was Richard Davies, near Ruabon, in Denbighshire;
 and he advised me to go to the chancellor, Dr. Wynne, whom I should find, he said,
@@ -3984,7 +3984,7 @@ but neither myself nor son-in-law were ever after
 troubled about those repairs of their worship house.
 
 Another time when I was going to London, and visiting Friends in my way,
-I called at Timothy Burberough`'s, at Aino on the hill, in Northamptonshire,
+I called at Thomas Burberough`'s, at Aino on the hill, in Northamptonshire,
 where I understood he was gone to prison.
 I inquired the cause of his imprisonment,
 and his wife told me the priest of the parish had left their small tithes,
@@ -4044,23 +4044,23 @@ who suffered for tithes in that country:
 and that I was informed there had been three committed to Worcester jail by one Kerry,
 the priest of Tredington, and that two of them were released,
 and the third remains a prisoner.
-Released, said he, how are they released?
-I told him, by the hand of their great Creator. It seems then, said he, they are dead;
-and the same man, said I, does prosecute the widow of one of them, William Banbury,
+"`Released,`" said he, "`how are they released?`"
+I told him, "`by the hand of their great Creator.`" "`It seems then,`" said he, "`they are dead.`"
+"`And the same man,`" said I, "`does prosecute the widow of one of them, William Banbury,
 and has already put her into your court,
 for that which her husband suffered and died for; and we reckon, that in common law,
-when the prisoner dies in prison, the prosecution ceases.
-I do not know, said he, but the debt may be paid, but the charges are not;
+when the prisoner dies in prison, the prosecution ceases.`"
+"`I do not know,`" said he, "`but the debt may be paid, but the charges are not;
 and I know not what to do with that man, for I hear he is a very covetous man,
 and I have no power over him but once in three years.
 I was lately in my visitation there, and had I known this then,
-I might have done your friends some kindness.
-I said, if you will be so kind as to write a few lines to him,
+I might have done your friends some kindness.`"
+I said, "`If you will be so kind as to write a few lines to him,
 and let him know what complaint is made to you of him,
 and how you are informed that two of the three which he sent to prison are dead;
 I do not question but it might stop his rage and
 severe prosecution against the poor widow,
-if not be a means to release the other prisoner.
+if not be a means to release the other prisoner.`"
 So he bid his secretary to take notice of it, and put him in mind to write to him.
 
 Then I told him of the sufferings of William Sankey, who was there present,
@@ -4094,7 +4094,7 @@ and she was troubled no more.
 Before I parted with the bishop, I told him, there was a friend of ours, William Cattril,
 that kept school at Worcester,
 who was persecuted very close by some for keeping school without a license,
-and they did intend to bring him under an Excommunicato capiendo,
+and they did intend to bring him under an _Excommunicato capiendo,_
 and if he was not pleased to be kind to him,
 they would put him to all the charge and trouble they could.
 The bishop bid his secretary take care about it.
@@ -4136,7 +4136,7 @@ and he was afraid these men would die there also,
 except some way was found out for their release.
 The bishop asked how long they had been there;
 I think the chancellor said four or five years.
-The bishop said, discharge them, discharge them;
+The bishop said, "`Discharge them, discharge them;`"
 and ordered them to be discharged without paying any fees.
 After a little time I parted with the bishop and chancellor,
 and acknowledged their kindness.
